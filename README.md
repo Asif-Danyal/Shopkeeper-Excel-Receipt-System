@@ -26,7 +26,7 @@ It helps shopkeepers manage products and generate customer receipts efficiently 
 4. Receipt is generated and printed  
 
 ## 📂 Project Structure
-- Excel File (.xlsm) → Main system with VBA
+- Shopkeeper Receipt System (.xlsm) → Main system with VBA
 
 ## ⚙️ Requirements
 - Microsoft Excel (2016 or later)
