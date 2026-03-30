@@ -34,7 +34,8 @@ It helps shopkeepers manage products and generate customer receipts efficiently 
 - Barcode Scanner (optional)
   
 ## 🖼️ Screenshots
-
+Receipt_Form.png
+Item_Details.png
 
 ## 🔧 Technologies Used
 - Microsoft Excel
