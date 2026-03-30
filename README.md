@@ -36,6 +36,7 @@ It helps shopkeepers manage products and generate customer receipts efficiently 
 ## 🖼️ Screenshots
 Receipt Form
 ![Receipt Form](Receipt_Form.png)
+
 Item_Details
 ![Item_Details](Item_Details.png)
 
