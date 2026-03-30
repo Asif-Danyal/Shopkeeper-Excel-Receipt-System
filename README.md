@@ -39,6 +39,7 @@ Receipt Form
 
 Item_Details
 ![Item_Details](Item_Details.png)
+Item_Details
 
 ## 🔧 Technologies Used
 - Microsoft Excel
